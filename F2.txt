@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 wip in progess..
 danger
+=======
+wip in progess..still in progress.
+>>>>>>> adaee91cb76d47d48068fac7fce0a6f464e68edf
