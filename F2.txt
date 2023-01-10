@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 wip in progess..
+<<<<<<< HEAD
+github 
+=======
 danger
+>>>>>>> efb559741f140d0a77d88983fbb7230d034f78c1
 =======
 wip in progess..still in progress.
 >>>>>>> adaee91cb76d47d48068fac7fce0a6f464e68edf
