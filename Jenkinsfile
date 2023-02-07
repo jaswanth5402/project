@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('download') {
       steps {
-        nodejs('my-node ') {
+        nodejs('my-node') {
           sh 'npm install'
         }
 
@@ -12,7 +12,7 @@ pipeline {
 
     stage('build ') {
       steps {
-        nodejs('my-node ') {
+        nodejs('my-node') {
           sh 'ng build '
         }
 
